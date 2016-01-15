@@ -1,0 +1,18 @@
+.cuadrado1
+{
+	width:200px;
+ padding:40px;
+ border:10px solid yellow;
+ border-width:20px 7px;
+ background-color:white;
+ text-align: center;
+}
+.cuadrado2
+{
+	width:200px;
+ padding:40px;
+ border:10px solid yellow;
+ border-width:20px 7px;
+ background-color:white;
+ margin:auto;	
+}/* Escribe aqui tu CSS */
